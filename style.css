@@ -1,3 +1,8 @@
 * {
   box-sizing: border-box;
 }
+.box {
+  border-radius: 10px;
+  border-color: black;
+  box-shadow: 15px 5px black;
+}
